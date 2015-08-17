@@ -1,2 +1,2 @@
 # Graphics
-A graphics interface for C
+A graphics interface for C.
